@@ -1,3 +1,4 @@
 # hello-world
 my first repository on github
-i love coffee, pizza
+i love :coffee:, :pizza:
+
